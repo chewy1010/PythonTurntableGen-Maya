@@ -1,0 +1,19 @@
+TurntableGen
+
+Features:
+
+Turntable:
+
+Frame Range Adjustment: Customize the start and end frame range to control the duration of the turntable animation. A smaller range results in a faster camera rotation around the object.
+Radius/Distance Control: Adjust the size of the path along which the camera follows. A larger radius creates a longer path.
+Height Adjustment: Modify the vertical translation of the camera path to achieve the desired perspective.
+Create Turntable Around Selected Object: Select a geometry object in the viewport and generate the camera path around it.
+Add Grid: Include a 500 x 500 grid in the scene for spatial reference.
+Real-time Preview: Preview the camera path and its parameters in real-time. Make adjustments and preview again for instant updates.
+Confirmation: Click "OK" when satisfied with the settings to finalize the turntable animation.
+Animation:
+
+Linear Animation: Choose this option to create a smooth and seamless loop for the turntable animation, ensuring a gradual start and end.
+Other:
+
+Work in Progress: This section is under development. Currently only selects an object in the scene and moves it to the world's centre.
